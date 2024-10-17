@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.section{
+    padding: 10px 100px 10px 100px;
+}
+body{
+    background-color: #f4f5f7;
+    color: black;
+    font: 300 14px 'Poppins', sans-serif;
+}
+h1{
+    font-family: "lobster",sans-serif;
+    padding-top: 30px;
+    padding-left: 130px;
+    font-size: 130px;
+    font-weight: 400;
+}
+h2{
+    font-size: 30px;
+}
+#inicio{
+    background-image: url("fondo.jpg");
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+#concepto{
+    margin-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+p{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 15px;
+}
+li{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 15px;
+}
+#partes{
+    list-style: none;
+}
+#Caracteristicas{
+    margin-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+#Partes{
+    margin-top: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+footer{
+text-align: center;
+padding: 10px;
+}
